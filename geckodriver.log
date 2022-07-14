@@ -1,0 +1,443 @@
+1657653526342	geckodriver	INFO	Listening on 127.0.0.1:54906
+1657653529409	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofilehnY6rd"
+1657653531297	Marionette	INFO	Marionette enabled
+1657653531308	Marionette	INFO	Listening on port 54925
+Read port: 54925
+WebDriver BiDi listening on ws://localhost:54907
+1657653531573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofilehnY6rd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54907/devtools/browser/be2b79a7-be96-46ea-afb5-c650946a83bb
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657653537766, line 107988: RuntimeError: unreachable executed
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657653555203, line 107988: RuntimeError: unreachable executed
+1657653594631	Marionette	INFO	Stopped listening on port 54925
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657653638215	geckodriver	INFO	Listening on 127.0.0.1:55041
+1657653641244	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofile1H5vgl"
+1657653641877	Marionette	INFO	Marionette enabled
+1657653641886	Marionette	INFO	Listening on port 55063
+WebDriver BiDi listening on ws://localhost:55042
+Read port: 55063
+1657653642178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofile1H5vgl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55042/devtools/browser/c4a565bd-0d04-45e0-b021-389cc9ed7142
+console.error: "Exception when calling onAvailable handler" "Connection closed, pending request to server0.conn0.windowGlobal4294967297/accessibilityActor13, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ninitialize@resource://devtools/client/fronts/accessibility.js:536:46\nmanage@resource://devtools/shared/protocol/Front.js:146:19\ngetFront@resource://devtools/shared/protocol/types.js:559:18\ngetFront@resource://devtools/client/fronts/targets/target-mixin.js:332:15\n_getAccessibilityFront@resource://devtools/client/inspector/inspector.js:575:49\n_onTargetAvailable@resource://devtools/client/inspector/inspector.js:276:12\n" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/accessibilityActor13, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ninitialize@resource://devtools/client/fronts/accessibility.js:536:46\nmanage@resource://devtools/shared/protocol/Front.js:146:19\ngetFront@resource://devtools/shared/protocol/types.js:559:18\ngetFront@resource://devtools/client/fronts/targets/target-mixin.js:332:15\n_getAccessibilityFront@resource://devtools/client/inspector/inspector.js:575:49\n_onTargetAvailable@resource://devtools/client/inspector/inspector.js:276:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "accessibility" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/accessibilityActor13, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ninitialize@resource://devtools/client/fronts/accessibility.js:536:46\nmanage@resource://devtools/shared/protocol/Front.js:146:19\ngetFront@resource://devtools/shared/protocol/types.js:559:18\ngetFront@resource://devtools/client/fronts/targets/target-mixin.js:332:15\n_getAccessibilityFront@resource://devtools/client/inspector/inspector.js:575:49\n_onTargetAvailable@resource://devtools/client/inspector/inspector.js:276:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new TypeError("(destructured parameter) is null", "resource://devtools/client/shared/output-parser.js", 95))
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/6c297508-0d77-458e-9b33-c4de0d9d75e8 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657653648592, line 107988: RuntimeError: unreachable executed
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657653660309	Marionette	INFO	Stopped listening on port 55063
+1657700111598	geckodriver	INFO	Listening on 127.0.0.1:50688
+1657700114677	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "--disable-dev-shm-usage" "--remote-debugging-port" "50689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileXOGBgU"
+1657700116128	Marionette	INFO	Marionette enabled
+1657700116139	Marionette	INFO	Listening on port 50701
+WebDriver BiDi listening on ws://localhost:50689
+Read port: 50701
+1657700116382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileXOGBgU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50689/devtools/browser/748435c7-057e-4aef-a60c-e6afa46d1021
+1657700125274	Marionette	INFO	Stopped listening on port 50701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657700176168	geckodriver	INFO	Listening on 127.0.0.1:50798
+1657700179195	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "--disable-dev-shm-usage" "--remote-debugging-port" "50799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileWslLCo"
+1657700179805	Marionette	INFO	Marionette enabled
+1657700179814	Marionette	INFO	Listening on port 50808
+WebDriver BiDi listening on ws://localhost:50799
+Read port: 50808
+1657700180004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileWslLCo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50799/devtools/browser/0a485faa-37a3-4a27-818b-e54f14a13be7
+1657700186121	Marionette	INFO	Stopped listening on port 50808
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657700225950	geckodriver	INFO	Listening on 127.0.0.1:50863
+1657700228943	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "--disable-dev-shm-usage" "--remote-debugging-port" "50864" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofile2qEIeQ"
+1657700229514	Marionette	INFO	Marionette enabled
+1657700229523	Marionette	INFO	Listening on port 50874
+WebDriver BiDi listening on ws://localhost:50864
+Read port: 50874
+1657700229755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofile2qEIeQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50864/devtools/browser/185f7155-d691-40c3-b7c0-faa05e4c80b0
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/e1b92bf3-7566-42c8-86bc-3fbfbd9af453 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657700234528, line 107988: RuntimeError: unreachable executed
+1657700242996	Marionette	INFO	Stopped listening on port 50874
+1657700244244	geckodriver	INFO	Listening on 127.0.0.1:50914
+1657700247295	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "--disable-dev-shm-usage" "--remote-debugging-port" "50915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofilevzP8iV"
+1657700248067	Marionette	INFO	Marionette enabled
+1657700248075	Marionette	INFO	Listening on port 50925
+WebDriver BiDi listening on ws://localhost:50915
+Read port: 50925
+1657700248325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofilevzP8iV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50915/devtools/browser/9f7557c4-1717-4187-9b94-3a474dd73ec1
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/c9e71047-4232-4edb-a120-1ced58f4997d line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657700252885, line 107988: RuntimeError: unreachable executed
+1657705996165	geckodriver	INFO	Listening on 127.0.0.1:56247
+1657705999227	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileB6S935"
+1657706000673	Marionette	INFO	Marionette enabled
+1657706000688	Marionette	INFO	Listening on port 56258
+WebDriver BiDi listening on ws://localhost:56248
+Read port: 56258
+1657706000938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileB6S935\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56248/devtools/browser/ec4ad541-3d0f-47eb-a4c5-fdf31aef0bd4
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657706005789, line 107988: RuntimeError: unreachable executed
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657706011105, line 107988: RuntimeError: unreachable executed
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657706020503, line 107988: RuntimeError: unreachable executed
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/ line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657706025332, line 107988: RuntimeError: unreachable executed
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657706034431	Marionette	INFO	Stopped listening on port 56258
+1657706166900	geckodriver	INFO	Listening on 127.0.0.1:56491
+1657706169935	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileRtFH6d"
+1657706170469	Marionette	INFO	Marionette enabled
+1657706170479	Marionette	INFO	Listening on port 56502
+WebDriver BiDi listening on ws://localhost:56492
+Read port: 56502
+1657706170742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileRtFH6d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56492/devtools/browser/9dfa0ec8-929f-4af4-888c-f71e17a04f5a
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657706176102, line 107988: RuntimeError: unreachable executed
+1657706260979	geckodriver	INFO	Listening on 127.0.0.1:56645
+1657706264006	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofile9VkcXs"
+1657706264564	Marionette	INFO	Marionette enabled
+1657706264574	Marionette	INFO	Listening on port 56658
+WebDriver BiDi listening on ws://localhost:56646
+Read port: 56658
+1657706265048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofile9VkcXs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56646/devtools/browser/8c6236a7-586b-47da-9598-dc38aa73d251
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657706270097, line 107988: RuntimeError: unreachable executed
+1657706287060	geckodriver	INFO	Listening on 127.0.0.1:56718
+1657706290115	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileRqX2p6"
+1657706290664	Marionette	INFO	Marionette enabled
+1657706290674	Marionette	INFO	Listening on port 56730
+WebDriver BiDi listening on ws://localhost:56719
+Read port: 56730
+1657706291442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileRqX2p6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56719/devtools/browser/5ec18b9c-7553-4eb9-b91d-771ddc766465
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657706295747, line 107988: RuntimeError: unreachable executed
+1657706299840	Marionette	INFO	Stopped listening on port 56730
+1657709215470	geckodriver	INFO	Listening on 127.0.0.1:64591
+1657709218570	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileryAzhN"
+1657709220077	Marionette	INFO	Marionette enabled
+1657709220091	Marionette	INFO	Listening on port 64603
+WebDriver BiDi listening on ws://localhost:64592
+Read port: 64603
+1657709220345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileryAzhN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64592/devtools/browser/29b59682-be9c-4dc3-aaf7-a3bd72f347b0
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.kad.arbitr.ru/card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://m.kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657709225714, line 107988: RuntimeError: unreachable executed
+1657709229268	Marionette	INFO	Stopped listening on port 64603
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657709244352	geckodriver	INFO	Listening on 127.0.0.1:63381
+1657709247414	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileWWCWFp"
+1657709247953	Marionette	INFO	Marionette enabled
+1657709247963	Marionette	INFO	Listening on port 63393
+WebDriver BiDi listening on ws://localhost:63382
+Read port: 63393
+1657709248187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileWWCWFp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63382/devtools/browser/6dd7a60c-18c4-44ab-b6ef-172834805531
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657709252972, line 107988: RuntimeError: unreachable executed
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657709254791, line 107988: RuntimeError: unreachable executed
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657709256045, line 107988: RuntimeError: unreachable executed
+1657709257118	Marionette	INFO	Stopped listening on port 63393
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657709264789	geckodriver	INFO	Listening on 127.0.0.1:63442
+1657709267830	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileLtbNlW"
+1657709268402	Marionette	INFO	Marionette enabled
+1657709268412	Marionette	INFO	Listening on port 63456
+WebDriver BiDi listening on ws://localhost:63443
+Read port: 63456
+1657709268636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileLtbNlW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63443/devtools/browser/31ae3ba7-05d9-4ab5-bbbc-178b2059326d
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657709273683, line 107988: RuntimeError: unreachable executed
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657709352637, line 107988: RuntimeError: unreachable executed
+1657709369449	geckodriver	INFO	Listening on 127.0.0.1:63576
+1657709372503	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofilevNIC8B"
+*** You are running in headless mode.
+1657709373065	Marionette	INFO	Marionette enabled
+1657709373076	Marionette	INFO	Listening on port 63588
+WebDriver BiDi listening on ws://localhost:63577
+Read port: 63588
+1657709373348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofilevNIC8B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63577/devtools/browser/ffb3b25a-35e8-4e81-9ce5-60242722b6d7
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657709377564, line 107988: RuntimeError: unreachable executed
+1657709399111	geckodriver	INFO	Listening on 127.0.0.1:63646
+1657709402158	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileHsEFDL"
+*** You are running in headless mode.
+1657709402874	Marionette	INFO	Marionette enabled
+1657709402884	Marionette	INFO	Listening on port 63659
+WebDriver BiDi listening on ws://localhost:63647
+Read port: 63659
+1657709403130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofileHsEFDL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63647/devtools/browser/6fca6a46-944f-4247-97d8-3bdfc7939e52
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657709407120, line 107988: RuntimeError: unreachable executed
+1657709416894	geckodriver	INFO	Listening on 127.0.0.1:63704
+1657709419936	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofilegcxNik"
+1657709420599	Marionette	INFO	Marionette enabled
+1657709420615	Marionette	INFO	Listening on port 63720
+WebDriver BiDi listening on ws://localhost:63705
+Read port: 63720
+1657709420894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bilal\\AppData\\Local\\Temp\\rust_mozprofilegcxNik\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63705/devtools/browser/83e2b01e-5436-4334-9d9e-1fc6e3c561f0
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kad.arbitr.ru/Card/17345995-a2a3-422b-9cf2-a38ba4112b73 line 1 > injectedScript, line 1: WebGL context was lost.
+JavaScript error: https://kad.arbitr.ru/Wasm/api/v1/wasm_bg.wasm?_=1657709426668, line 107988: RuntimeError: unreachable executed
+1657709435355	Marionette	INFO	Stopped listening on port 63720
